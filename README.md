@@ -9,5 +9,3 @@ I adhere to industry standards set by the various interop groups, and if none ex
 Constantly evolving, with a passion for learning and teaching alike. I'd like to boast that I might have been a mentor for at least one team-member, but doing that I feel like Michael Scott with his "World's Best Boss" mug. So let's stick to "I've reviewed pull-requests and given meaningful feedback resulting in code-changes" instead.
 
 I dislike personality tests and other types of tests that try to measure me, feels like simplistic mementos in an ever changing world we adapt to and learn from. But my last free test did say I am ENTP-T, so that might be related.
-
-![image](https://github.com/user-attachments/assets/0bf2397a-de97-4a5b-b7d2-65744937e17c)
